@@ -1,0 +1,35 @@
+UPLOAD THE COMPLETE LOCAL-ONLY WEBSITE
+Michael Brandenbursky | 21 October 2026
+
+Use this ZIP instead of every previous website package.
+You must upload ALL its contents, not only index.html.
+
+1. On Windows, right-click the downloaded ZIP and choose Extract All.
+   Open the extracted folder. You should see index.html alongside the PDF files.
+
+2. Open your existing GitHub repository:
+   github.com/mbrandenbursky/mbrandenbursky.github.io
+   Click Code, then Add file, then Upload files.
+
+3. Drag all the files INSIDE the extracted folder onto the upload page.
+   Wait until every file has finished uploading.
+   Do not upload the ZIP or an enclosing folder.
+   index.html must stay at the top level, next to the PDFs.
+   Do not rename index.html to index (1).html.
+
+4. Enter "Install complete local-only homepage" as the commit message.
+   Choose Commit directly to the main branch, then Commit changes.
+   Files with matching names will be replaced and new files will be added.
+
+5. If Pages already publishes from main and /(root), leave the settings as they are.
+   Otherwise select Settings > Pages > Deploy from a branch > main > /(root) > Save.
+
+6. Wait for deployment to finish, then open mbrandenbursky.github.io.
+   Reload the page. On Windows, Ctrl+F5 can help when the old page is cached.
+
+To preview before uploading, double-click index.html in the extracted folder.
+Keep all the files together. Do not delete and recreate your repository.
+
+The page has no remote hyperlinks or resource dependencies. Its paper titles,
+arXiv labels and CV link all open included local PDFs. Your university affiliation
+and email address have not been removed.

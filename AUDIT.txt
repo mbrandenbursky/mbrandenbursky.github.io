@@ -1,33 +1,186 @@
-Source archive: March 2026; CV: 17 September 2026. New manuscripts supplied October 2026.
+LOCAL-ONLY WEBSITE AUDIT — 21 October 2026
 
-PDF first-page text audit (manual confirmation recommended):
-bkms.pdf | website: On quasimorphisms and distortion in homeomorphism groups | PDF: ON QUASIMORPHISMS AND DISTORTION IN HOMEOMORPHISM GROUPS MICHAEL BRANDENBURSKY, JAREK KĘDRA, MICHAŁ MARCINKOWSKI, AND EGOR SHELUKHIN Abstract. Let M be a smooth compact oriented ma
-L^p_diameter_of_loops.pdf | website: The $L^p$-diameter of the space of contructible loops | PDF: THE Lp -DIAMETER OF THE SPACE OF CONTRACTIBLE LOOPS MICHAEL BRANDENBURSKY AND EGOR SHELUKHIN Abstract. We prove that the space of contractible simple loops of a given fixed area in
-Paper_with_Lior.pdf | website: Bounded cohomology of measure-preserving homeomorphism groups of non-orientable surfaces | PDF: BOUNDED COHOMOLOGY OF MEASURE-PRESERVING HOMEOMORPHISM GROUPS OF NON-ORIENTABLE SURFACES MICHAEL BRANDENBURSKY AND LIOR MENASHE Abstract. Let Ng be a closed non-orientable surface 
-Volume_and_Euler_classes_in_bounded_cohomology_of_transformation_groups.pdf | website: Volume and Euler classes in bounded cohomology of transformation groups | PDF: VOLUME AND EULER CLASSES IN BOUNDED COHOMOLOGY OF TRANSFORMATION GROUPS MICHAEL BRANDENBURSKYa AND MICHAŁ MARCINKOWSKIb Abstract. Let M be an oriented smooth manifold, and Homeo(M,
-quasimorphisms.pdf | website: Non-commutative Barge-Ghys quasimorphisms | PDF: M. Brandenbursky, M. Verbitsky Non-commutative Barge-Ghys quasimorphisms Non-commutative Barge-Ghys quasimorphisms Michael Brandenbursky,1 Misha Verbitsky,2 Abstract. A (non-commut
-met-knots.pdf | website: Lipschitz geometry of surface germs in $R^4$: metric knots | PDF: LIPSCHITZ GEOMETRY OF SURFACE GERMS IN R4 : METRIC KNOTS LEV BIRBRAIR*, MICHAEL BRANDENBURSKY**, AND ANDREI GABRIELOV† Abstract. A link at the origin of an isolated singularity of 
-C^0-gap.pdf | website: C^0-gap between entropy-zero Hamiltonians and autonomous diffeomorphisms of surfaces | PDF: C 0 -GAP BETWEEN ENTROPY-ZERO HAMILTONIANS AND AUTONOMOUS DIFFEOMORPHISMS OF SURFACES MICHAEL BRANDENBURSKY AND MICHAEL KHANEVSKY Abstra t. Let Σ be a surfa e equipped with an area
-LpSurfaces4.pdf | website: The Schwarz-Milnor lemma for braids and area-preserving diffeomorphisms | PDF: The Schwarz-Milnor lemma for braids and area-preserving diffeomorphisms Michael Brandenbursky, Michal Marcinkowski, and Egor Shelukhin Abstract We prove a number of new results on 
-relative-qm.pdf | website: Fragmentation norm and relative quasimorphisms | PDF: FRAGMENTATION NORM AND RELATIVE QUASIMORPHISMS MICHAEL BRANDENBURSKY AND JAREK KDRA We prove that manifolds with complicated enough fundamental group admit measure-preserving home
-3rd.bounded.pdf | website: Bounded cohomology of transformation groups | PDF: BOUNDED COHOMOLOGY OF TRANSFORMATION GROUPS MICHAEL BRANDENBURSKY AND MICHA MARCINKOWSKI Let M be a complete connected Riemannian manifold of nite volume. In this paper we present
-ent-Ham.pdf | website: On the entropy norm on $Ham(S^2)$ | PDF: ON THE ENTROPY NORM ON Ham(S 2 ) MICHAEL BRANDENBURSKY AND EGOR SHELUKHIN Abstract. In this note we prove that for each positive integer m there exists a bi-Lipschitz embedding Zm 
-Diff-entropy.pdf | website: On the entropy norm on the group of diffeomorphisms of closed oriented surface | PDF: ON THE ENTROPY NORM ON THE GROUP OF DIFFEOMORPHISMS OF CLOSED ORIENTED SURFACE MICHAEL BRANDENBURSKY AND ARPAN KABIRAJ Abstract. We prove that the entropy norm on the group of diﬀe
-entropy-qm-new.pdf | website: Entropy and quasimorphisms | PDF: ENTROPY AND QUASIMORPHISMS MICHAEL BRANDENBURSKY AND MICHA MARCINKOWSKI Abstract. Let S be a compact oriented surface. We construct homoge- neous quasimorphisms on Diff(S, area), 
-aut.pdf | website: Aut-invariant norms and Aut-invariant quasimorphisms on free and surface group | PDF: AUT-INVARIANT NORMS AND AUT-INVARIANT QUASIMORPHISMS ON FREE AND SURFACE GROUPS MICHAEL BRANDENBURSKY AND MICHAŁ MARCINKOWSKI Abstract. Let Fn be a free group on n generators and Γ
-torus.pdf | website: On the autonomous norm on the group of Hamiltonian diffeomorphisms of the torus | PDF: ON THE AUTONOMOUS NORM ON THE GROUP OF HAMILTONIAN DIFFEOMORPHISMS OF THE TORUS MICHAEL BRANDENBURSKY, JAREK KĘDRA, AND EGOR SHELUKHIN Abstract. We prove that the autonomous norm o
-CrossRatiosL1new10.pdf | website: The $L^p$-diameter of the group of area-preserving diffeomorphisms of $S^2$ | PDF: The Lp-diameter of the group of area-preserving diﬀeomorphisms of S 2 Michael Brandenbursky and Egor Shelukhin Abstract We show that for each p ≥ 1, the L -metric on the group of a
-autonomous-rn.pdf | website: The autonomous norm on $Ham(R^2n)$ is bounded | PDF: THE AUTONOMOUS NORM ON Ham (R2n ) IS BOUNDED MICHAEL BRANDENBURSKY AND JAREK KĘDRA Abstract. We prove that the autonomous norm on the group of compactly supported Hamiltonian diﬀeo
-3-braids-concordance.pdf | website: Concordance of certain 3-braids and Gauss diagrams | PDF: Concordance of certain 3-braids and Gauss diagrams Michael Brandenbursky Abstract. Let β := σ1 σ2−1 be a braid in B3 , where B3 is the braid group on 3 strings and σ1 , σ2 are the 
-bgkm.pdf | website: Cancelation norm and the geometry of bi-invariant word metrics | PDF: The cancelation norm and the geometry of biinvariant word metrics ˛ Michael Brandenbursky, Światosław R. Gal, Jarek Kedra, and Michał Marcinkowski Abstract. We study biinvariant w
-AutonomousMetricsSurfaces10.pdf | website: On the L^p-geometry of autonomous Hamiltonian diffeomorphisms of surfaces | PDF: c International Press 2011 ⃝ M ath. Res. Lett. 18 (2015), no. 00, 1–15 ON THE LP -GEOMETRY OF AUTONOMOUS HAMILTONIAN DIFFEOMORPHISMS OF SURFACES. Michael Brandenbursky and Egor She
-b-inv-metrics.pdf | website: Bi-invariant metrics and quasi-morphisms on groups of Hamiltonian diffeomorphisms of surfaces | PDF: June 16, 2015 11:39 WSPC/INSTRUCTION FILE b-inv-metrics International Journal of Mathematics c World Scientiﬁc Publishing Company ⃝ Bi-invariant metrics and quasi-morphisms on grou
-concordance.pdf | website: Concordance group and stable commutator length in braid groups | PDF: Concordance group and stable commutator length in braid groups Michael Brandenbursky and Jarek Kędra Abstract. We deﬁne quasihomomorphisms from braid groups to the concordance grou
-two-comp-new.pdf | website: Link invariants via counting surfaces | PDF: LINK INVARIANTS VIA COUNTING SURFACES MICHAEL BRANDENBURSKY Abstract. A Gauss diagram is a simple, combinatorial way to present a knot. It is known that any Vassiliev invariant may
-braid-Homfly-polynomials.pdf | website: Coloring link diagrams and Conway-type polynomial of braids | PDF: COLORING LINK DIAGRAMS AND CONWAY-TYPE POLYNOMIAL OF BRAIDS MICHAEL BRANDENBURSKY Abstract. In this paper we define and present a simple combinatorial formula for a 3-variable Laur
-bk.pdf | website: Quasi-isometric embeddings into diffeomorphism groups | PDF: QUASI-ISOMETRIC EMBEDDINGS INTO DIFFEOMORPHISM GROUPS MICHAEL BRANDENBURSKY AND JAREK KDRA Let M be a smooth compact connected oriented manifold of dimension at least two endowed 
-bk2.pdf | website: On the autonomous norm on the group of area-preserving diffeomorphisms of the 2-disc | PDF: ON THE AUTONOMOUS METRIC ON THE GROUP OF AREA-PRESERVING DIFFEOMORPHISMS OF THE 2-DISC MICHAEL BRANDENBURSKY AND JAREK KDRA Let D2 be the open unit disc in the Euclidean plane and
-closed-braid-inv.pdf | website: Invariants of closed braids via counting surfaces | PDF: INVARIANTS OF CLOSED BRAIDS VIA COUNTING SURFACES MICHAEL BRANDENBURSKY A Gauss diagram is a simple, combinatorial way to present a link. It is known that any Vassiliev invariant m
-quasi-morphisms and quasi-isometries.pdf | website: Quasi-morphisms and L^p metrics on groups of volume-preserving diffeomorphisms | PDF: QUASI-MORPHISMS AND Lp -METRICS ON GROUPS OF VOLUME-PRESERVING DIFFEOMORPHISMS MICHAEL BRANDENBURSKY Abstract. Let M be a smooth compact connected oriented manifold of dimension at
-braid-quasi-morphisms.pdf | website: On quasi-morphisms from knot and braid invariants | PDF: October 18, S0218216511009212 2011 9:16 WSPC/S0218-2165 134-JKTR Journal of Knot Theory and Its Ramiﬁcations Vol. 20, No. 10 (2011) 1397–1417 c World Scientiﬁc Publishing Company 
-LpMetricTwoSphere7.pdf | website: On the large-scale geometry of the L^p-metric on the symplectomorphism group of the two-sphere | PDF: On the large-scale geometry of the Lp-metric on the symplectomorphism group of the two-sphere. Michael Brandenbursky and Egor Shelukhin Abstract We prove that the L -metric on the 
+Result: every webpage link points to an included local file.
+Remote webpage hyperlinks: 0.
+Remote webpage resources: 0.
+Missing local webpage targets: 0.
+Active BGU web-link annotations in all packaged PDFs: 0.
+Visible homepage text, publication ordering and styling match the restored source.
+Scientific text and page appearance of all research PDFs are unchanged.
+32 research entries; 1 conference-proceedings entry; 2 textual thesis entries.
+The arXiv labels open local PDFs; no separate arXiv copy is claimed.
+
+VERSION LIMITS AND PRESERVED SOURCE DISCREPANCIES
+The four newest uploads are used; newer versions have not been independently sought.
+Older PDFs are the corrected package copies, with titles checked against their entries.
+The source bibliography and CV differ in places and are not silently reconciled:
+  - Metric-knots source citation: volume 28 (2023); uploaded CV: 29(3).
+  - Loops source citation: in press; uploaded CV: 58(5), e70396 (2026).
+  - Source title says "contructible"; the PDF says "contractible".
+The visible source wording, including literal math notation, is deliberately retained.
+No thesis PDFs were provided; the two thesis entries remain text only.
+
+PDF MIGRATION EDITS
+  Michael_Brandenbursky_CV.pdf, page 1: Homepage text updated to mbrandenbursky.github.io; hyperlink uses local index.html.
+  Michael_Brandenbursky_CV.pdf, page 5: Old BGU link redirected to New-quasimorphisms.pdf
+  Michael_Brandenbursky_CV.pdf, page 3: Paper link redirected to local bkms.pdf
+  Michael_Brandenbursky_CV.pdf, page 3: Paper link redirected to local bkms.pdf
+  Michael_Brandenbursky_CV.pdf, page 4: Paper link redirected to local The_L_p_diameter_of_loops.pdf
+  Michael_Brandenbursky_CV.pdf, page 4: Paper link redirected to local Volume_and_Euler_classes_in_bounded_cohomology_of_transformation_groups.pdf
+  Michael_Brandenbursky_CV.pdf, page 4: Paper link redirected to local Volume_and_Euler_classes_in_bounded_cohomology_of_transformation_groups.pdf
+  Michael_Brandenbursky_CV.pdf, page 4: Paper link redirected to local quasimorphisms.pdf
+  Michael_Brandenbursky_CV.pdf, page 4: Paper link redirected to local Erratum.pdf
+  Michael_Brandenbursky_CV.pdf, page 5: Paper link redirected to local Paper_with_Lior.pdf
+  Erratum.pdf, page 2: Preprint link redirected to local New-quasimorphisms.pdf; printed text unchanged.
+  Erratum.pdf, page 2: Preprint link redirected to local New-quasimorphisms.pdf; printed text unchanged.
+  Erratum.pdf, page 2: Preprint link redirected to local New-quasimorphisms.pdf; printed text unchanged.
+  Erratum.pdf, page 2: Preprint link redirected to local New-quasimorphisms.pdf; printed text unchanged.
+
+RESEARCH-PAPER INVENTORY
+1. M. Brandenbursky, Bounded cohomology of transformation groups in all degrees , arxiv:2610.11327 (2026).
+   Local file: Bd_cohomology_all_degrees.pdf; 74 pages; 965067 bytes.
+   SHA-256: 262fb26ee672e2917089174cceb01caf287652d9ba07021d5650818521eceb27
+2. M. Brandenbursky and M. Verbitsky, Barge-Ghys quasimorphisms taking values in semi-direct products , preprint (2026).
+   Local file: New-quasimorphisms.pdf; 38 pages; 700334 bytes.
+   SHA-256: 4c300c56ca3b1b84677a0ce4d2aaf4bc552946ee6d3834ab70340983f2d87fed
+3. M. Brandenbursky and L.Menashe, Bounded cohomology of measure-preserving homeomorphism groups of non-orientable surfaces , arxiv:2506.02728 (2025).
+   Local file: Paper_with_Lior.pdf; 22 pages; 558086 bytes.
+   SHA-256: 3b9214ef86007db90c4b0bd1fed2846392de3a6b5b9c27eeeff3b2fb62352405
+4. M. Brandenbursky, J. Kedra, M. Marcinkowski and E. Shelukhin, On quasimorphisms and distortion in homeomorphism groups , Communications in Contemporary Mathematics (in press), (2026).
+   Local file: bkms.pdf; 18 pages; 545079 bytes.
+   SHA-256: c5f6d1487af3a49d034622de7a7490528923cd9e6fca7ee5d1af643c7898316e
+5. M. Brandenbursky and E. Shelukhin, The $L^p$-diameter of the space of contructible loops , Bulletin of the London Mathematical Society (in press), (2026).
+   Local file: The_L_p_diameter_of_loops.pdf; 14 pages; 327254 bytes.
+   SHA-256: f37786ef6954819b466a738ae7ebc6fdb3748f79e4d7cd969402261ce107302f
+6. M. Brandenbursky and M. Marcinkowski, Volume and Euler classes in bounded cohomology of transformation groups , Glasgow Mathematical Journal vol. 67 (2025), no. 1, 34-49.
+   Local file: Volume_and_Euler_classes_in_bounded_cohomology_of_transformation_groups.pdf; 20 pages; 542002 bytes.
+   SHA-256: 5829596fa6806deb417e816ad4e81273e2e3373e5a9c0e46716c4454aaf1f6fa
+7. M. Brandenbursky and M. Verbitsky, Non-commutative Barge-Ghys quasimorphisms , IMRN no. 15, 11135-11158, (2024).
+   Local file: quasimorphisms.pdf; 43 pages; 797154 bytes.
+   SHA-256: 503b97f3d22f5b72501aea30cc8524be449fe18e8ff43c34234a8ea939466fab
+8. M. Brandenbursky and M. Verbitsky, Non-commutative Barge-Ghys quasimorphisms: an Erratum (2026).
+   Local file: Erratum.pdf; 3 pages; 220537 bytes.
+   SHA-256: c56d960ce84ffcc0e2d429f830527818f063513ed66d0232d1c22c0452b74c6b
+9. L. Birbrair, M. Brandenbursky and A. Gabrielov, Lipschitz geometry of surface germs in $R^4$: metric knots , Selecta Math. (N.S.) , vol. 28 (2023), no. 3, Paper No. 43, 20 pp.
+   Local file: met-knots.pdf; 14 pages; 200091 bytes.
+   SHA-256: 7121018c650eeded05972f39fac7d8cdabb1a2da91a36440b9c5b8e6f1908acf
+10. M. Brandenbursky and M. Khanevsky, C^0-gap between entropy-zero Hamiltonians and autonomous diffeomorphisms of surfaces , Israel Journal of Mathematics , vol. 255 (2023), no. 1, 311-324.
+   Local file: C^0-gap.pdf; 9 pages; 250411 bytes.
+   SHA-256: f7824885cff66b8f1e8980e5ebdf47ca0c612bb45e8c469bdce3a6114fcddae8
+11. M. Brandenbursky, M. Marcinkowski and E. Shelukhin, The Schwarz-Milnor lemma for braids and area-preserving diffeomorphisms , Selecta Math. (N.S.) , vol. 28 (2022), no. 4, Paper No. 74, 20 pp.
+   Local file: LpSurfaces4.pdf; 17 pages; 426776 bytes.
+   SHA-256: 3e72f6e8a7c1561ecac9b4702b24ee0bebc240b538ec693b3a0590279b444275
+12. M. Brandenbursky and J. Kedra, Fragmentation norm and relative quasimorphisms , Proceedings of the American Mathematical Society , vol. 150 (2022), no. 10, 4519-4531.
+   Local file: relative-qm.pdf; 15 pages; 379193 bytes.
+   SHA-256: d7117a16afd8f8193d209ac5774e12e66353e8c65b8f0cc54be169b4a0d7aada
+13. M. Brandenbursky and M. Marcinkowski, Bounded cohomology of transformation groups , Mathematische Annalen , vol. 382 (2022), no. 3-4, 1181-1197.
+   Local file: 3rd.bounded.pdf; 18 pages; 428268 bytes.
+   SHA-256: ab48870aa3bab730b0e80151ef6dc1c7a1b2a076bef5ed07a6fc3c28ca9ac14d
+14. M. Brandenbursky and E. Shelukhin, On the entropy norm on $Ham(S^2)$ , Annales mathematiques du Quebec , vol. 45 (2021), no. 1, 231-237.
+   Local file: ent-Ham.pdf; 7 pages; 412332 bytes.
+   SHA-256: 3e30b45f78f41183dc9e970f25b189aaf9121b50007df640f2ff2f160bafa41e
+15. M. Brandenbursky and A. Kabiraj, On the entropy norm on the group of diffeomorphisms of closed oriented surface , Journal of Topology and Analysis vol. 12, No. 1 (2020), 105-111.
+   Local file: Diff-entropy.pdf; 7 pages; 139586 bytes.
+   SHA-256: b99b745c5da3eeca966b2acce5ecfe5a492a0755f0ca8e05f1619bd64c20dd58
+16. M. Brandenbursky and M. Marcinkowski, Entropy and quasimorphisms , Journal of Modern Dynamics , vol. 15, 143-163, (2019).
+   Local file: entropy-qm-new.pdf; 24 pages; 526163 bytes.
+   SHA-256: 73a500bfbd955c0b3d0f7ad83ac0dd4018b1d44c1587b25428f1d3dc1def1af5
+17. M. Brandenbursky and M. Marcinkowski, Aut-invariant norms and Aut-invariant quasimorphisms on free and surface group , Commentarii Mathematici Helvetici , vol. 94, No. 4 (2019), 661-687.
+   Local file: aut.pdf; 26 pages; 336085 bytes.
+   SHA-256: 13c31ff55fe67f014b9cbf3bde9ee5adafe2eb76ae336bb5b68be368db0a757d
+18. M. Brandenbursky, J. Kedra and E. Shelukhin On the autonomous norm on the group of Hamiltonian diffeomorphisms of the torus , Communications in Contemporary Mathematics , (2018), 20(2):1750042.
+   Local file: torus.pdf; 27 pages; 583408 bytes.
+   SHA-256: 74f787b04a972f712688e128646df0cca04ee5fc4d319e003df6b78913f12297
+19. M. Brandenbursky and E. Shelukhin The $L^p$-diameter of the group of area-preserving diffeomorphisms of $S^2$ , Geometry & Topology , (2017), 21(6):3785-3810.
+   Local file: CrossRatiosL1new10.pdf; 19 pages; 211929 bytes.
+   SHA-256: 482e0ff838f50450a6391bff8708c08cacad18d4d202636a1d23d861daf59b76
+20. M. Brandenbursky and J. Kedra, The autonomous norm on $Ham(R^2n)$ is bounded , Annales mathematiques du Quebec , 41 (2017), 63-65.
+   Local file: autonomous-rn.pdf; 3 pages; 72807 bytes.
+   SHA-256: f77175076a145530af70ccc5d0f81fb33cb8d02ba29fe86a8bb1a0ff83eb2be9
+21. M. Brandenbursky, Concordance of certain 3-braids and Gauss diagrams , Topology and its Applications , 214 (2016), 180-185.
+   Local file: 3-braids-concordance.pdf; 9 pages; 147460 bytes.
+   SHA-256: e1e367a67c56ac25a51ded8b1dc797e75e4d4305d1adc8e7218c34870ab13f37
+22. M. Brandenbursky, S. Gal, J. Kedra and M. Marcinkowski, Cancelation norm and the geometry of bi-invariant word metrics , Glasgow Mathematical Journal , 58 (2016), no. 1, 153-176.
+   Local file: bgkm.pdf; 32 pages; 318904 bytes.
+   SHA-256: bb01f41c729e6ef0607bd03f094b040f3e79e3ab3a142e53278f17f48b63f2f8
+23. M. Brandenbursky and E. Shelukhin, On the L^p-geometry of autonomous Hamiltonian diffeomorphisms of surfaces , Mathematical Research Letters , 22 (2015), no. 5, 1275-1294.
+   Local file: AutonomousMetricsSurfaces10.pdf; 15 pages; 199849 bytes.
+   SHA-256: 06e06732caec0b9c67c2a08f7bdbf7c599494fe4315ca367b8603610c0b87cdd
+24. M. Brandenbursky, Bi-invariant metrics and quasi-morphisms on groups of Hamiltonian diffeomorphisms of surfaces , International Journal of Mathematics , 26 (2015), no. 9, 1550066, 29 pp.
+   Local file: b-inv-metrics.pdf; 31 pages; 250723 bytes.
+   SHA-256: 22befa5a7c94d2cc41cecc54c1135998381cf5db08d4a7eedf33b286d37a2dcb
+25. M. Brandenbursky and J. Kedra, Concordance group and stable commutator length in braid groups , Algebraic & Geometric Topology , 15 (2015), no. 5, 2861-2886.
+   Local file: concordance.pdf; 27 pages; 205972 bytes.
+   SHA-256: 3204d49ef771f85ba7dfa4b0956bc2c6b7f406375ace0c6ebb92291deda1d4fd
+26. M. Brandenbursky, Link invariants via counting surfaces , Geometriae Dedicata 173 (2014), 243-270.
+   Local file: two-comp-new.pdf; 29 pages; 395995 bytes.
+   SHA-256: 6aa32d7c7b02eab47c2b745b3f48da78c94ef895c6005831fee197cb13e9407c
+27. M. Brandenbursky, Coloring link diagrams and Conway-type polynomial of braids , Topology and its Applications , 161 (2014), 141-158.
+   Local file: braid-Homfly-polynomials.pdf; 21 pages; 285686 bytes.
+   SHA-256: 68be39a2fb6d18a6b06ebcf7edb8e25c3d953a45853ac819ebf91ae21675c0a2
+28. M. Brandenbursky and J. Kedra, Quasi-isometric embeddings into diffeomorphism groups , Groups, Geometry and Dynamics , vol. 7, No. 3 (2013), 523-534.
+   Local file: bk.pdf; 12 pages; 204443 bytes.
+   SHA-256: 1a76fb1aae01cce5ce254474bd368242f56a7e1eb3ce27d04397a3aebd9bed41
+29. M. Brandenbursky and J. Kedra, On the autonomous norm on the group of area-preserving diffeomorphisms of the 2-disc , Algebraic & Geometric Topology 13 (2013), 795-816.
+   Local file: bk2.pdf; 20 pages; 256039 bytes.
+   SHA-256: b1b4f1806d21ff1cadc11d25f51c2f887f68debc931c7b24da90d14d690ce32b
+30. M. Brandenbursky, Invariants of closed braids via counting surfaces , Journal of Knot Theory and its Ramifications , vol. 22, No. 3 (2013), 1350011 (21 pages).
+   Local file: closed-braid-inv.pdf; 18 pages; 259344 bytes.
+   SHA-256: f5c25d9c5d17b09fe997994ce867da3f0e9c0847b445b0e72b696a1ce241e222
+31. M. Brandenbursky, Quasi-morphisms and L^p metrics on groups of volume-preserving diffeomorphisms , Journal of Topology and Analysis vol. 4, No. 2 (2012), 255-270.
+   Local file: quasi-morphisms and quasi-isometries.pdf; 17 pages; 247787 bytes.
+   SHA-256: b6da7df8af2f77ade0bc8df025fe0ac8898fb3115861994b339d35d726034be8
+32. M. Brandenbursky, On quasi-morphisms from knot and braid invariants , Journal of Knot Theory and its Ramifications , vol. 20, No. 10 (2011), 1397-1417.
+   Local file: braid-quasi-morphisms.pdf; 21 pages; 361928 bytes.
+   SHA-256: c92ac5f1cabc319b93a1c1b757f5bf039994ad6a04efdd31f074fb7d8b21e463
+
+CONFERENCE PROCEEDINGS
+LpMetricTwoSphere7.pdf — 17 pages.
+
+ALL PACKAGED PDF FILES
+3-braids-concordance.pdf | 9 pages | 147460 bytes | e1e367a67c56ac25a51ded8b1dc797e75e4d4305d1adc8e7218c34870ab13f37
+3rd.bounded.pdf | 18 pages | 428268 bytes | ab48870aa3bab730b0e80151ef6dc1c7a1b2a076bef5ed07a6fc3c28ca9ac14d
+AutonomousMetricsSurfaces10.pdf | 15 pages | 199849 bytes | 06e06732caec0b9c67c2a08f7bdbf7c599494fe4315ca367b8603610c0b87cdd
+Bd_cohomology_all_degrees.pdf | 74 pages | 965067 bytes | 262fb26ee672e2917089174cceb01caf287652d9ba07021d5650818521eceb27
+C^0-gap.pdf | 9 pages | 250411 bytes | f7824885cff66b8f1e8980e5ebdf47ca0c612bb45e8c469bdce3a6114fcddae8
+CrossRatiosL1new10.pdf | 19 pages | 211929 bytes | 482e0ff838f50450a6391bff8708c08cacad18d4d202636a1d23d861daf59b76
+Diff-entropy.pdf | 7 pages | 139586 bytes | b99b745c5da3eeca966b2acce5ecfe5a492a0755f0ca8e05f1619bd64c20dd58
+Erratum.pdf | 3 pages | 220537 bytes | c56d960ce84ffcc0e2d429f830527818f063513ed66d0232d1c22c0452b74c6b
+L^p_diameter_of_loops.pdf | 14 pages | 327254 bytes | f37786ef6954819b466a738ae7ebc6fdb3748f79e4d7cd969402261ce107302f
+LpMetricTwoSphere7.pdf | 17 pages | 187189 bytes | be7dd6a658a0d26ae277ca7b08c3a572b4f67f3c6b50b7a6be9997345bd39acb
+LpSurfaces4.pdf | 17 pages | 426776 bytes | 3e72f6e8a7c1561ecac9b4702b24ee0bebc240b538ec693b3a0590279b444275
+Michael_Brandenbursky_CV.pdf | 10 pages | 429684 bytes | a34a61c185f24643fd4f56e08ca58cf8337e580b06f59022b3a26906b26ede2d
+MyCV.pdf | 10 pages | 429684 bytes | a34a61c185f24643fd4f56e08ca58cf8337e580b06f59022b3a26906b26ede2d
+New-quasimorphisms.pdf | 38 pages | 700334 bytes | 4c300c56ca3b1b84677a0ce4d2aaf4bc552946ee6d3834ab70340983f2d87fed
+Paper_with_Lior.pdf | 22 pages | 558086 bytes | 3b9214ef86007db90c4b0bd1fed2846392de3a6b5b9c27eeeff3b2fb62352405
+The_L_p_diameter_of_loops.pdf | 14 pages | 327254 bytes | f37786ef6954819b466a738ae7ebc6fdb3748f79e4d7cd969402261ce107302f
+Volume_and_Euler_classes_in_bounded_cohomology_of_transformation_groups.pdf | 20 pages | 542002 bytes | 5829596fa6806deb417e816ad4e81273e2e3373e5a9c0e46716c4454aaf1f6fa
+aut.pdf | 26 pages | 336085 bytes | 13c31ff55fe67f014b9cbf3bde9ee5adafe2eb76ae336bb5b68be368db0a757d
+autonomous-rn.pdf | 3 pages | 72807 bytes | f77175076a145530af70ccc5d0f81fb33cb8d02ba29fe86a8bb1a0ff83eb2be9
+b-inv-metrics.pdf | 31 pages | 250723 bytes | 22befa5a7c94d2cc41cecc54c1135998381cf5db08d4a7eedf33b286d37a2dcb
+bgkm.pdf | 32 pages | 318904 bytes | bb01f41c729e6ef0607bd03f094b040f3e79e3ab3a142e53278f17f48b63f2f8
+bk.pdf | 12 pages | 204443 bytes | 1a76fb1aae01cce5ce254474bd368242f56a7e1eb3ce27d04397a3aebd9bed41
+bk2.pdf | 20 pages | 256039 bytes | b1b4f1806d21ff1cadc11d25f51c2f887f68debc931c7b24da90d14d690ce32b
+bkms.pdf | 18 pages | 545079 bytes | c5f6d1487af3a49d034622de7a7490528923cd9e6fca7ee5d1af643c7898316e
+braid-Homfly-polynomials.pdf | 21 pages | 285686 bytes | 68be39a2fb6d18a6b06ebcf7edb8e25c3d953a45853ac819ebf91ae21675c0a2
+braid-quasi-morphisms.pdf | 21 pages | 361928 bytes | c92ac5f1cabc319b93a1c1b757f5bf039994ad6a04efdd31f074fb7d8b21e463
+closed-braid-inv.pdf | 18 pages | 259344 bytes | f5c25d9c5d17b09fe997994ce867da3f0e9c0847b445b0e72b696a1ce241e222
+concordance.pdf | 27 pages | 205972 bytes | 3204d49ef771f85ba7dfa4b0956bc2c6b7f406375ace0c6ebb92291deda1d4fd
+ent-Ham.pdf | 7 pages | 412332 bytes | 3e30b45f78f41183dc9e970f25b189aaf9121b50007df640f2ff2f160bafa41e
+entropy-qm-new.pdf | 24 pages | 526163 bytes | 73a500bfbd955c0b3d0f7ad83ac0dd4018b1d44c1587b25428f1d3dc1def1af5
+met-knots.pdf | 14 pages | 200091 bytes | 7121018c650eeded05972f39fac7d8cdabb1a2da91a36440b9c5b8e6f1908acf
+quasi-morphisms and quasi-isometries.pdf | 17 pages | 247787 bytes | b6da7df8af2f77ade0bc8df025fe0ac8898fb3115861994b339d35d726034be8
+quasimorphisms.pdf | 43 pages | 797154 bytes | 503b97f3d22f5b72501aea30cc8524be449fe18e8ff43c34234a8ea939466fab
+relative-qm.pdf | 15 pages | 379193 bytes | d7117a16afd8f8193d209ac5774e12e66353e8c65b8f0cc54be169b4a0d7aada
+torus.pdf | 27 pages | 583408 bytes | 74f787b04a972f712688e128646df0cca04ee5fc4d319e003df6b78913f12297
+two-comp-new.pdf | 29 pages | 395995 bytes | 6aa32d7c7b02eab47c2b745b3f48da78c94ef895c6005831fee197cb13e9407c
+
+RUNTIME CHECKS
+All 34 unique webpage document targets returned HTTP 200 from a local test server
+and matched the packaged bytes. All open as valid PDFs.
+Desktop (1440px) and mobile (390px) page renders checked; no horizontal overflow.
+The page rendered without any external network requests. Browser policy blocks
+file/loopback navigation in the test environment, so the photograph's exact bytes
+were inlined only in the test render; the delivered image remains a local file.
+The original and migrated erratum render identically on every page.
+CV pages 2-10 render identically to the upload; only the homepage line changes on page 1.
